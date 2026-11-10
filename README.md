@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWY5Y3Bsa2d3emFmd3VieDZscDJjemw4Z2FiZGRkeWJ6Mm4wMnU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="catoncomputer gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwZXQ4ODMyaHNwajAzZ2ZoNjFod2c5bnh6cnVnZGM5dWgxbTVzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzfl3E7a4iHK/giphy.gif" width="30%" height="30%" alt="codegif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWY5Y3Bsa2d3emFmd3VieDZscDJjemw4Z2FiZGRkeWJ6Mm4wMnU0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="catoncomputer gif" width="30%" height="30%" alt="catcodinggif">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwZXQ4ODMyaHNwajAzZ2ZoNjFod2c5bnh6cnVnZGM5dWgxbTVzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzfl3E7a4iHK/giphy.gif"  width="30%" height="30%" alt="codegif">
 </div>
 
 # 💫 About Me:
